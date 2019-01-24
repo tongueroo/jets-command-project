@@ -11,3 +11,7 @@ There is a general `execute` method where you and specific the command in the ev
   command: "whoami"
 }
 ```
+
+## More Examples
+
+[tongueroo/jets-examples](https://github.com/tongueroo/jets-examples)
