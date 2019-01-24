@@ -1,5 +1,5 @@
 Jets.application.configure do
-  config.project_name = "command"
+  config.project_name = "commands"
   config.mode = "html"
 
   config.prewarm.enable = true # default is true
